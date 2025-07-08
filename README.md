@@ -17,15 +17,17 @@ Example result:
 
 ARIMA Model on 5 years Sainsbury data
 
-<img src="results/sainsbury/arima/best-arima-model-result-comparison-sainsbury-5y.PNG">
+![Screenshot 2025-07-08 180554](https://github.com/user-attachments/assets/1a6828ad-3cc3-4e00-a894-36d1a4c263db)
 
-<img src="results/sainsbury/arima/best-arima-model-overall-view-sainsbury-5y.PNG">
+![Screenshot 2025-07-08 180606](https://github.com/user-attachments/assets/8df63065-fe00-4c0a-9598-503055043755)
+
 
 LSTM Model on 5 years Tesco data
 
-<img src="results/tesco/lstm/test12-result-comparison-tesco-5y.PNG">
+![Screenshot 2025-07-08 180615](https://github.com/user-attachments/assets/2e48f1c9-8d17-4e9c-8978-243b5fa27e80)
+![Screenshot 2025-07-08 180625](https://github.com/user-attachments/assets/96515293-a0d0-4195-b16f-dcc5d7ce8043)
 
-<img src="results/tesco/lstm/test12-overall-view-tesco-5y.PNG">
+
 
 Conclusion:
 
